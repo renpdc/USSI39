@@ -82,7 +82,7 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/renpdc/USSI39/HEAD)
 
-[Launch Voilà]((https://notebooks.gesis.org/binder/jupyter/user/renpdc-ussi39-jd86z0jj/lab/tree/notebook/Renaud_Peudecoeur_App.ipynb))
+[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2FRenaud_Peudecoeur_App.ipynb)
 
 
 
